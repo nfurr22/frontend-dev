@@ -7,13 +7,7 @@ Here is a demo of the installation and a rundown of features. https://www.youtub
 
 ### Install the necessary package managers
 
-``$ npm install -g bower``
-
-``$ npm install -g gulp``
-
-``$ npm install -g gulp-hologram``
-
-``$ gem install bundler``
+``$ npm install -g bower && npm install -g gulp && npm install -g gulp-hologram && gem install bundler``
 
 ### Clone the repo
 
